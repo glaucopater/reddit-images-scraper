@@ -1,0 +1,4 @@
+node_modules/*
+docdata-ftp/
+.DS_STORE
+.vscode/settings.json
