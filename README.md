@@ -1,5 +1,3 @@
-Reddit Image Scroll Viewer
+Reddit Images Scraper
 ===
-
-Made with  React JS components infinite scroll and Reddit Api 
 ---
